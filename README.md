@@ -6,3 +6,6 @@ https://github.com/dhruvmojidra619-hub/DevOps-Projects
 
 ## 🔗 Project URL
 https://roadmap.sh/projects/server-stats
+
+## Log Archive
+https://roadmap.sh/projects/log-archive
