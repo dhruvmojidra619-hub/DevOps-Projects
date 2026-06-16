@@ -3,3 +3,6 @@ A collection of hands-on DevOps projects covering shell scripting, Linux adminis
 
 ## 🔗 Project URL
 https://github.com/dhruvmojidra619-hub/DevOps-Projects
+
+## 🔗 Project URL
+https://roadmap.sh/projects/server-stats
