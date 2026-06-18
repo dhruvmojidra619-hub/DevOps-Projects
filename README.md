@@ -8,8 +8,8 @@ A collection of hands-on DevOps projects covering shell scripting, Linux adminis
 https://roadmap.sh/projects/server-stats
 
 ### Log Archive
-https://roadmap.sh/projects/log-archive
+https://roadmap.sh/projects/log-archive-tool
 
 ## Project URL
 
-https://roadmap.sh/projects/log-archive
+https://roadmap.sh/projects/log-archive-tool
