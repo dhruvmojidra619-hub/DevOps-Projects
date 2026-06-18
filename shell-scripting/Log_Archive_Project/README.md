@@ -227,3 +227,7 @@ The script has been tested on Ubuntu 22.04.
 Dhruv Mojidra
 
 GitHub: https://github.com/dhruvmojidra619-hub
+
+## Project URL
+
+https://roadmap.sh/projects/log-archive
